@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Kcreza Arien (read as: K-c-re-zuh  Ar-yen) 
 * Currently, in my 2nd Year as a Computer Science Student at Università di Parma 
-* Working as a part time legal assistant
+* Working as a part-time Paralegal 
 
 ---
 ### I'm interested in:
@@ -25,3 +25,4 @@ I'm Kcreza Arien (read as: K-c-re-zuh  Ar-yen)
 - 🔐 Cyber Security
 - 🪙 Crypto
 - 📚 Learning new coding languages
+
