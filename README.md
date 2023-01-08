@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Kcreza Arien (read as: K-c-re-zuh  A-ri-yen) 
+I'm Kcreza Arien (read as: K-c-re-zuh  Ar-yen) 
 * Currently, in my 2nd Year as a Computer Science Student at Università di Parma 
 * Working as a part time legal asistant
 
