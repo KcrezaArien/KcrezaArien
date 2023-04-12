@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Kcreza Arien 
-* Currently, in my 2nd Year as a Computer Science Student at Università degli di Parma
+* Currently, in my 2nd Year as a Computer Science Student at Università degli Studi di Parma
 * Working as a part-time Paralegal 
 
 #### I'm interested in:
