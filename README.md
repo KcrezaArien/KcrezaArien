@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Kcreza Arien 
-* Currently, in my 2nd Year as a Computer Science Student at Università degli Studi di Parma
-* Working as a part-time Paralegal 
+* Currently, in my 3rd Year as a Computer Science Student at Università degli Studi di Parma
 
 #### I'm interested in:
 - 💼 Cyber Law
@@ -26,6 +25,7 @@ I'm Kcreza Arien
 
 #### 
 
+<!--
 ---
 #### Books related to Cyber Security that i've read so far:
 |                      Title                        |          Author        |
@@ -35,5 +35,7 @@ I'm Kcreza Arien
 | Hacking: The Art of Exploitation                  |      Jon Erickson      | 
 | Hacklog: Vol 1 Anonymity                          |     Stefano Novelli    |
 | The hacker playbook 3 - Red team Edition          |        Peter Kim       | 
+
+-->
 
 ###### This README is still under major revision.
