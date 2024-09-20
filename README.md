@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Kcreza Arien 
-* Currently, in my 3rd Year as a Computer Science Student at Università degli Studi di Parma
-
 #### I'm interested in:
 - 💼 Cyber Law
 - 🔐 Cyber Security
-- 📚 Learning new coding languages 
 
 #### 
 
@@ -33,9 +29,13 @@ I'm Kcreza Arien
 | The Art of invisibility                           |      Kevin Mitnick     |
 | Social Engineering: The Science of Human Hacking  | Christopher J. Hadnagy |
 | Hacking: The Art of Exploitation                  |      Jon Erickson      | 
+
 | Hacklog: Vol 1 Anonymity                          |     Stefano Novelli    |
 | The hacker playbook 3 - Red team Edition          |        Peter Kim       | 
 
 -->
+![introduction-to-cybersecurity](https://github.com/user-attachments/assets/414df4d5-3833-4a82-9b22-573433191c4e)
+
+
 
 ###### This README is still under major revision.
