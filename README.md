@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 #### I'm interested in:
 - 💼 Cyber Law
 - 🔐 Cyber Security
-
 #### 
+
+- Cisco Introduction to Cybersecurity - Badge Obtained ( Sept 20, 2024 ) -> https://www.credly.com/badges/139810ee-a9a3-4d3e-a94a-b4bb9307d4c4/public_url
 
 <!--
 ---
@@ -34,10 +35,5 @@ Here are some ideas to get you started:
 | The hacker playbook 3 - Red team Edition          |        Peter Kim       | 
 
 -->
-![introduction-to-cybersecurity](https://github.com/user-attachments/assets/1e7915ee-65a6-4bf0-b024-c098adab76be)
-
-
-
-
 
 ###### This README is still under major revision.
