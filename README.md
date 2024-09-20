@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 | The hacker playbook 3 - Red team Edition          |        Peter Kim       | 
 
 -->
-![introduction-to-cybersecurity](https://github.com/user-attachments/assets/414df4d5-3833-4a82-9b22-573433191c4e)
+![introduction-to-cybersecurity](https://github.com/user-attachments/assets/1e7915ee-65a6-4bf0-b024-c098adab76be)
+
+
 
 
 
