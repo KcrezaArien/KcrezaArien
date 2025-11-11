@@ -18,21 +18,13 @@ Here are some ideas to get you started:
 #### I'm interested in:
 - 💼 Cyber Law
 - 🔐 Cyber Security
+- 💻 IT Management Systems
 #### 
 
-- Cisco Introduction to Cybersecurity - Badge Obtained ( Sept 20, 2024 ) -> https://www.credly.com/badges/139810ee-a9a3-4d3e-a94a-b4bb9307d4c4/public_url
+
 
 <!--
 ---
-#### Books related to Cyber Security that i've read so far:
-|                      Title                        |          Author        |
-|---------------------------------------------------|------------------------|
-| The Art of invisibility                           |      Kevin Mitnick     |
-| Social Engineering: The Science of Human Hacking  | Christopher J. Hadnagy |
-| Hacking: The Art of Exploitation                  |      Jon Erickson      | 
-
-| Hacklog: Vol 1 Anonymity                          |     Stefano Novelli    |
-| The hacker playbook 3 - Red team Edition          |        Peter Kim       | 
 
 -->
 
