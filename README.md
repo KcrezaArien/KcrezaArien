@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Computer Science student building practical projects and exploring new technologies. I focus on clean, functional code and continuous learning. This space hosts my experiments, from web apps to coding challenges.
 
-#### I'm interested in:
+I welcome feedback, collaboration, and opportunities to grow as a developer.
+
+**Currently working on:** a Legal Management System to streamline case and document handling.
+
+#### Interests:
 - 💼 Cyber Law
 - 🔐 Cyber Security
 - 💻 IT Management Systems
