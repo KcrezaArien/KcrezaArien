@@ -26,6 +26,10 @@ I welcome feedback, collaboration, and opportunities to grow as a developer.
 - 💻 IT Management Systems
 #### 
 
+### Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KcrezaArien&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!--
