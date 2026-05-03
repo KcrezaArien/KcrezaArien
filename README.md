@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Computer Science student focused on building practical, real-world applications and continuously improving my software development skills.
-I enjoy writing clean, functional, and maintainable code, and I’m always exploring new tools and technologies through hands-on projects.
+I enjoy writing code, and I’m always exploring new tools and technologies through hands-on projects.
 
 I use this space to document my learning journey, from small experiments to full-stack applications and coding challenges.
 
