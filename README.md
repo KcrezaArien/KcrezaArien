@@ -14,20 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Computer Science student focused on building practical, real-world applications and continuously improving my software development skills.
-I enjoy writing code, and I’m always exploring new tools and technologies through hands-on projects.
+I’m a Computer Science student focused on building practical software and improving my ability to design and implement real-world systems.
 
-I use this space to document my learning journey, from small experiments to full-stack applications and coding challenges.
+I enjoy writing code and learning how different components work together to create functional applications.
 
-## 🚀 Current Project
-**Legal Management System**
-- A system designed to streamline case tracking, document management, and workflow organization in legal environments. \
-Focus: improving data handling, user workflow, and system structure design.
+This space documents my development journey, from small coding exercises to larger applications involving data handling, system design, and user workflows.
 
-## Interests:
-- 💼 Cyber Law
-- 🔐 Cyber Security
-- 💻 IT Management Systems
+I’m particularly interested in software that improves organization, security, and efficiency in real environments.
+
+### 🚀 Current Focus
+I’m currently working on a **Legal Management System** designed to streamline case tracking, document handling, and operational workflows in a structured environment.
+
+The goal of this project is to strengthen my understanding of:
+- application architecture
+- data management
+- system design and scalability
+
+### Interests:
+- 💼 Cyber Law & Digital Systems
+- 🔐 Cyber Security & Data Protection
+- 💻 IT Management Systems & Software Design
 
 ## Languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
